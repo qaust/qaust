@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qaust
-- 👀 I’m interested in AI/machine learning + the societal implications of AI
+- 👀 I’m a student interested in AI/machine learning + the societal implications of AI
 - 🌱 I’m currently learning Python
 - 📫 qauster1@gmail.com
 
