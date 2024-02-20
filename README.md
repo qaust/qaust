@@ -2,7 +2,7 @@
 
 he/him 
 
-reach out at qauster@gmail.com!
+reach out at qauster1@gmail.com!
 
 deep learning | ml
 
